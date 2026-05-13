@@ -1,0 +1,6 @@
+nama = input("Siapa namamu : ")
+umur = input("Masukkan umur : ")
+# print("안녕", nama)
+# print("지금 당신의 나이는", umur)
+print("Hello", nama)
+print("Umurmu sekarang", umur)
